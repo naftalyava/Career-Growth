@@ -17,7 +17,7 @@ ARM Cortex M Microcontroller DMA Programming Demystified, Udemy - [Completed]
 
 
 Projects:
-1. Implement basic kernel using C++.\
-2. Implement fully functional NIC driver for linux.\
+1. Implement basic kernel using C++.
+2. Implement fully functional NIC driver for linux.
 3. Implement minimalistic hyper-visor using c++.
 
